@@ -1,4 +1,4 @@
-fileReader = open("Day1/Day1.txt", "r")
+fileReader = open("Day1/Text.txt", "r")
 textLines = fileReader.readlines()
 fileReader.close()
 
